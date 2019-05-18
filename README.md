@@ -1,21 +1,22 @@
-﻿# [type-c接口组件](https://github.com/litfe/entypec) 
+﻿# [emEYE](https://github.com/Qful/emEYE)
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
+[![sites](Qful/qitas.png)](http://www.Qful.net)
 
-#### qitas@qitas.cn -- [GitHub](https://github.com/lite-life/litelife)
+## [emEYE简介](https://github.com/Qful/emEYE)
 
-## [简介](https://github.com/lite-life/entypec/wiki) 
+[emEYE](https://github.com/Qful/emEYE)项目主要用于监听环境中的无线电状态，可以说是一种通信类的传感器，其价值需要不断被挖掘，但随着物联网建设越来越多的无线电设备被部署，监听无线信道变得有意义。
 
-可复用的type-c接口组件，各种标准接口和自定义接口的实现方式
+### [工程目录](https://github.com/Qful/emEYE)
 
-### [组成](litelife/) 
+* [文档](docs/)
+* [资源](src/)
+* [工程](project/)
 
-- [文档](docs/) 
-- [资源](src/) 
-- [工程](projects/) 
+### [Q资源](https://github.com/Qful)
 
+* [Q系统](https://github.com/OS-Q)
+* [Q硬件](https://github.com/sochub)
+* [Q智慧](https://github.com/tfzoo)
+* [Q品质](https://github.com/qitas)
 
-
-
-
-
+### www.Qful.net
