@@ -14,11 +14,12 @@
 * [资源](src/)
 * [工程](project/)
 
-### [Q资源](https://github.com/Qful)
+### [关联资源](https://github.com/Qful)
 
-* [Q系统](https://github.com/OS-Q)
-* [Q硬件](https://github.com/sochub)
 * [Q智慧](https://github.com/tfzoo)
-* [Q品质](https://github.com/qitas)
+* [Q效率](https://github.com/qitas)
+* [Q方案](https://github.com/OS-Q)
+* [Q载体](https://github.com/sochub)
+
 
 ### www.Qful.net
