@@ -4,5 +4,7 @@ This tool flashes the bin file directly to the ch559 chip, you need to install t
 
 chflasher.exe %project_name%.bin
 
+* [libusb-win32](https://sourceforge.net/p/libusb-win32/wiki/Home/)
+* [libusbK](http://libusbk.sourceforge.net/UsbK3/)
 
 ### www.Qful.net
