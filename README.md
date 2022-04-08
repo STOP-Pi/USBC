@@ -1,14 +1,11 @@
-﻿# [USB](https://github.com/Qful/USB)
+﻿# [USBC](https://github.com/STOP-Pi/USBC)
 
-[![sites](http://182.61.61.133/link/resources/Qful.png)](http://www.Qful.net)
-## [USB简介](https://github.com/Qful/USB)
+[![sites](http://182.61.61.133/link/resources/Qful.png)](http://www.stops.top)
 
-[USB](https://github.com/Qful/USB)项目通过将USB的一些特性单独整理成功能模块，保证相关技术和资源的复用，也便于各种工程集成后的维护和深度开发。
+[USBC](https://docs.soc.xin/espressif/ESP32-S2.html#usb-pd) 项目通过将USB的一些特性单独整理成功能模块，保证相关技术和资源的复用，也便于各种工程集成后的维护和深度开发。
 
 该为type-c接口的各种特性使用，包括PD和视频信号输出，通过DEMUX电路实现更多功能的集成和智能的选择使能，该单元是可编程控制单元，有自己的协议和相应的管理范围。
 
-[![sites](docs/1.png)](http://www.Qful.net)
-[![sites](docs/2.png)](http://www.Qful.net)
 
 USB Type-C是一个全新的正反插USB连接器规范，能够支持USB 3.1（Gen1和Gen2）、Display Port和USB PD等一系列新标准，最高速率可达10Gbps，Type-C端口默认最高可支持5V3A。USB PD是BMC编码的信号，而之前的USB则是FSK。
 
