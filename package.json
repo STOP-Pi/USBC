@@ -1,6 +1,6 @@
 {
     "name":"USBC",
-    "description":"USBC",
-    "url":"https://github.com/STOP-Pi/USBC",
+    "description":"USB Type-C",
+    "url":"https://github.com/stops-top/USBC",
     "version":"1.0.0"
 }
